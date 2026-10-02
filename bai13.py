@@ -1,0 +1,5 @@
+a = float(input())
+b = float(input())
+c = float(input())
+ban = (a//2)+(a%2)+(b//2)+(b%2)+(c//2)+(c%2)
+print(ban)
